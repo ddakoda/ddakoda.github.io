@@ -260,7 +260,7 @@ textarea.form-control {
 }
 
 /* ---------------------------------------------- /*
- * about/cat/work-pages/spotify
+ * about/cat/work-pages/spotify/details
 /* ---------------------------------------------- */
 
 .about, .work-pages{
@@ -276,6 +276,13 @@ textarea.form-control {
   color: #222;
   letter-spacing: 0.3px;
   line-height: 29px;
+  font-size: 14px;
+}
+
+.details-desc {
+  color: #222;
+  letter-spacing: 0.1px;
+  line-height: 25px;
   font-size: 14px;
 }
 
@@ -382,6 +389,7 @@ textarea.form-control {
   border: solid white 5px;
   width: 33.333%;
   padding: 0px;
+  text-decoration: none;
 }
 
 .portfolio-items-container img {
