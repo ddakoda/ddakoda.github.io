@@ -202,6 +202,7 @@ h3 {
 
 .work-image {
   border-style: 10px solid white;
+  margin: 10px 10px;
 }
 
 .catbox {
@@ -375,6 +376,14 @@ transition: opacity 0.35s ease 0s, transform 0.35s ease 0s;
 
 a.page-links:hover {
   color: #49e2d6;
+}
+
+p {
+  color: #222;
+  letter-spacing: 0.1px;
+  line-height: 25px;
+  font-size: 14px;
+  margin: 10px 10px;
 }
 
 /* ---------------------------------------------- /*
