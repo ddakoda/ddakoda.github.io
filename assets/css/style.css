@@ -380,7 +380,7 @@ transition: opacity 0.35s ease 0s, transform 0.35s ease 0s;
   transform: scale(1);
 }
 
-.page-links {
+.page-links, .coming-soon {
   color: #999;
   font-size: 14px;
 }
