@@ -176,7 +176,14 @@ h3 {
   margin: 0 0 20px;
 }
 
-.about-desc, .work-desc {
+.about-desc {
+  color: #222;
+  letter-spacing: 0.3px;
+  line-height: 29px;
+  font-size: 14px;
+}
+
+.work-desc {
   margin: 0 0 15px;
   color: #222;
   letter-spacing: 0.3px;
@@ -196,8 +203,12 @@ h3 {
   padding: 0;
 }
 
-.catbox-text, .work-text, .about-text {
+.catbox-text, .work-text {
   padding-left: 55px;
+}
+
+.about-text {
+  padding-left: 10px;
 }
 
 .work-image {
