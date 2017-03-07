@@ -381,9 +381,15 @@ transition: opacity 0.35s ease 0s, transform 0.35s ease 0s;
 .page-links, .coming-soon {
   color: #999;
   font-size: 14px;
+  margin: 10px 10px;
 }
 
-a.page-links:hover {
+.page-links-admass {
+  color: #999;
+  font-size: 14px;
+}
+
+a.page-links:hover, a.page-links-admass:hover {
   color: #49e2d6;
 }
 
